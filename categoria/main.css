@@ -43,19 +43,19 @@ body {
 
 #img-activa {
   border-radius: 5px;
-  width: 250px;
+  width: 300px;
   height: auto;
 }
 
 @media (max-width: 768px) {
   #img-activa {
-    width: 200px;
+    width: 250px;
     height: auto;
   }
 }
 @media (min-width: 1024px) {
   #img-activa {
-    width: 300px;
+    width: 324px;
     height: auto;
   }
 }
